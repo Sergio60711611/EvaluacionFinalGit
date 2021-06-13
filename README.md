@@ -4,7 +4,7 @@
 
 ###-Lista de caracteristicas
 
--Caracteristica1
+-Caracteristica1;
 
--Caracteristica2
+-Caracteristica2;
 
