@@ -1,6 +1,6 @@
 #Dojo Dodge
 
-##Version 0
+##Version 1.0
 
 ###-Lista de caracteristicas
 
